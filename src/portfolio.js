@@ -122,7 +122,6 @@ https://fontawesome.com/icons?d=gallery */
 
 // Education Section
 
-
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
@@ -210,7 +209,7 @@ const workExperiences = {
         "Constructed 3D-printable objects using CAD (CATIA), which are used in demo factories at Smarta Fabriker (Production for Future).",
         "Presented and demonstrated the demo factory for school classes and visitors from businesses.",
         "Completed the course Introduction to Industrial Digitalization."
-      ],
+      ]
     }
   ]
 };
@@ -306,7 +305,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        { name: "Certification", url: "" },
+        {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
