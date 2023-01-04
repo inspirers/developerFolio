@@ -26,8 +26,7 @@ const greeting = {
     "B.Sc Student in Computer Science and Engineering at Chalmers University of Technology | Ex RPA-Developer Intern at Volvo Cars"
     // "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1-uGqqNaK8b0Xlr2J3LVa3dA3XIKBsVna/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "boisen.ch/cv/assets/Arvid_Boisen_Resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
