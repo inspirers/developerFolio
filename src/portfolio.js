@@ -131,7 +131,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Chalmers University of Technology",
-      logo: require("./assets/images/chalmersLogga1.png"),
+      logo: require("./assets/images/chalmersLogga2.jpeg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2022 - June 2025"
       // ,
@@ -164,14 +164,14 @@ const techStack = {
     },
     {
       Stack: "Haskell",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "C",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
