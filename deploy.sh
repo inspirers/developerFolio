@@ -1,5 +1,5 @@
 #!/bin/sh
-nvm use 10.16.0
+nvm use system #10.16.0
 npm install --production
 npm audit fix
 npm run build
